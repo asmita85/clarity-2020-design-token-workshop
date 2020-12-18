@@ -1,0 +1,21 @@
+{
+  "name": "clarity-design-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private":true,
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmita85/clarity-2020-design-token-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmita85/clarity-2020-design-token-workshop/issues"
+  },
+  "homepage": "https://github.com/asmita85/clarity-2020-design-token-workshop#readme"
+}
